@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Задания по Java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Task1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Task2.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
